@@ -1,2 +1,2 @@
 # MLOps
-sasmple experiments
+sample experiments
