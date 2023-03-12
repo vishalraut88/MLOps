@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/697560695560623751/21d99bcf4fc849c49cae92365ef8e99d/artifacts
+end_time: 1678642417641
+entry_point_name: ''
+experiment_id: '697560695560623751'
+lifecycle_stage: active
+run_id: 21d99bcf4fc849c49cae92365ef8e99d
+run_name: bustling-toad-793
+run_uuid: 21d99bcf4fc849c49cae92365ef8e99d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678642414621
+status: 3
+tags: []
+user_id: Asus
