@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/2d6411b58b14478e9a13005a6c639dff/artifacts
+end_time: 1678198737263
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 2d6411b58b14478e9a13005a6c639dff
+run_name: bedecked-hare-966
+run_uuid: 2d6411b58b14478e9a13005a6c639dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198737231
+status: 3
+tags: []
+user_id: Asus

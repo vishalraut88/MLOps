@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/936031169896948155/763bf223d90648ec8263ead309757751/artifacts
+end_time: 1678641674359
+entry_point_name: ''
+experiment_id: '936031169896948155'
+lifecycle_stage: active
+run_id: 763bf223d90648ec8263ead309757751
+run_name: nimble-rat-590
+run_uuid: 763bf223d90648ec8263ead309757751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678641674322
+status: 4
+tags: []
+user_id: Asus

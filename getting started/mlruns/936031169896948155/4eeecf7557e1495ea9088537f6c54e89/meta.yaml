@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/936031169896948155/4eeecf7557e1495ea9088537f6c54e89/artifacts
+end_time: 1678641658599
+entry_point_name: ''
+experiment_id: '936031169896948155'
+lifecycle_stage: active
+run_id: 4eeecf7557e1495ea9088537f6c54e89
+run_name: industrious-moth-784
+run_uuid: 4eeecf7557e1495ea9088537f6c54e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678641658558
+status: 4
+tags: []
+user_id: Asus

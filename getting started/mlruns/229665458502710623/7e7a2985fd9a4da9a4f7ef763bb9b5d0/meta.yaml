@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/7e7a2985fd9a4da9a4f7ef763bb9b5d0/artifacts
+end_time: 1678198736772
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 7e7a2985fd9a4da9a4f7ef763bb9b5d0
+run_name: dazzling-mouse-433
+run_uuid: 7e7a2985fd9a4da9a4f7ef763bb9b5d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198736736
+status: 3
+tags: []
+user_id: Asus

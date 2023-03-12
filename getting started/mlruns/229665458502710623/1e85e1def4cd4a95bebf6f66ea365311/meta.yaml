@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/1e85e1def4cd4a95bebf6f66ea365311/artifacts
+end_time: 1678198774781
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 1e85e1def4cd4a95bebf6f66ea365311
+run_name: righteous-ant-35
+run_uuid: 1e85e1def4cd4a95bebf6f66ea365311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198774727
+status: 4
+tags: []
+user_id: Asus

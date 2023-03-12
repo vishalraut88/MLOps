@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/3ec2c1916b0a407da623d836417f5a06/artifacts
+end_time: 1678199117334
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 3ec2c1916b0a407da623d836417f5a06
+run_name: resilient-crab-494
+run_uuid: 3ec2c1916b0a407da623d836417f5a06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678199117297
+status: 3
+tags: []
+user_id: Asus

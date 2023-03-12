@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/ab537b0e272c4486a4d139f945f2fe58/artifacts
+end_time: 1678198752631
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: ab537b0e272c4486a4d139f945f2fe58
+run_name: classy-foal-620
+run_uuid: ab537b0e272c4486a4d139f945f2fe58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198752590
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/d8bb5808c2f041f391f5fe42c45e6b22/artifacts
+end_time: 1678198736928
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: d8bb5808c2f041f391f5fe42c45e6b22
+run_name: exultant-quail-131
+run_uuid: d8bb5808c2f041f391f5fe42c45e6b22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198736900
+status: 3
+tags: []
+user_id: Asus

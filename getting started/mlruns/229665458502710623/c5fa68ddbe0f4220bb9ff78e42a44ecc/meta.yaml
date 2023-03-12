@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/c5fa68ddbe0f4220bb9ff78e42a44ecc/artifacts
+end_time: 1678198491303
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: c5fa68ddbe0f4220bb9ff78e42a44ecc
+run_name: hilarious-deer-131
+run_uuid: c5fa68ddbe0f4220bb9ff78e42a44ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198491269
+status: 3
+tags: []
+user_id: Asus

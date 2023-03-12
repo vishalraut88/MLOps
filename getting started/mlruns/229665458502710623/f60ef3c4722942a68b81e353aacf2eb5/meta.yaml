@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/f60ef3c4722942a68b81e353aacf2eb5/artifacts
+end_time: 1678198490617
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: f60ef3c4722942a68b81e353aacf2eb5
+run_name: unleashed-wasp-200
+run_uuid: f60ef3c4722942a68b81e353aacf2eb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198490589
+status: 3
+tags: []
+user_id: Asus

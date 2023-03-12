@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/4ea89746d95e42b6b5f73b01e23471c9/artifacts
+end_time: 1678198490375
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 4ea89746d95e42b6b5f73b01e23471c9
+run_name: popular-whale-413
+run_uuid: 4ea89746d95e42b6b5f73b01e23471c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198490347
+status: 3
+tags: []
+user_id: Asus

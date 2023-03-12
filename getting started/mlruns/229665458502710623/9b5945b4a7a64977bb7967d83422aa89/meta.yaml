@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/9b5945b4a7a64977bb7967d83422aa89/artifacts
+end_time: 1678198491430
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 9b5945b4a7a64977bb7967d83422aa89
+run_name: spiffy-fowl-174
+run_uuid: 9b5945b4a7a64977bb7967d83422aa89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198491400
+status: 3
+tags: []
+user_id: Asus

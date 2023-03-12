@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/784649788326028585/5d7cb4280b0e46dab01b69a28210be8d/artifacts
+end_time: 1678190530804
+entry_point_name: ''
+experiment_id: '784649788326028585'
+lifecycle_stage: active
+run_id: 5d7cb4280b0e46dab01b69a28210be8d
+run_name: rebellious-asp-438
+run_uuid: 5d7cb4280b0e46dab01b69a28210be8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678190530700
+status: 3
+tags: []
+user_id: Asus

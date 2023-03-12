@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/936031169896948155/837ee66d608c40b5bacf63da323ff37c/artifacts
+end_time: 1678641693452
+entry_point_name: ''
+experiment_id: '936031169896948155'
+lifecycle_stage: active
+run_id: 837ee66d608c40b5bacf63da323ff37c
+run_name: defiant-sheep-547
+run_uuid: 837ee66d608c40b5bacf63da323ff37c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678641688278
+status: 3
+tags: []
+user_id: Asus

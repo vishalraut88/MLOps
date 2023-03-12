@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/e61678242894478e8a5c9ab1f937cfad/artifacts
+end_time: 1678198737569
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: e61678242894478e8a5c9ab1f937cfad
+run_name: caring-fowl-580
+run_uuid: e61678242894478e8a5c9ab1f937cfad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198737537
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/bb628f9ee16d475f94fa6b7389c78d4f/artifacts
+end_time: 1678198737475
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: bb628f9ee16d475f94fa6b7389c78d4f
+run_name: rumbling-lark-22
+run_uuid: bb628f9ee16d475f94fa6b7389c78d4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198737438
+status: 3
+tags: []
+user_id: Asus

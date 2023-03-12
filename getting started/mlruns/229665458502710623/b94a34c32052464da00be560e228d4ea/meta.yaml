@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/b94a34c32052464da00be560e228d4ea/artifacts
+end_time: 1678198737082
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: b94a34c32052464da00be560e228d4ea
+run_name: nosy-trout-558
+run_uuid: b94a34c32052464da00be560e228d4ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198737049
+status: 3
+tags: []
+user_id: Asus

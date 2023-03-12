@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/26bd503a4b0a49b39d60df65dfbde102/artifacts
+end_time: 1678198490163
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 26bd503a4b0a49b39d60df65dfbde102
+run_name: loud-hen-496
+run_uuid: 26bd503a4b0a49b39d60df65dfbde102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198490134
+status: 3
+tags: []
+user_id: Asus
