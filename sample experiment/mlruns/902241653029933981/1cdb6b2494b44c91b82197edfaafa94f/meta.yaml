@@ -1,0 +1,15 @@
+artifact_uri: c:\Users\vishalra\AppData\Roaming\Python\Python310\Scripts\mlruns\/1cdb6b2494b44c91b82197edfaafa94f/artifacts
+end_time: 1678096249230
+entry_point_name: ''
+experiment_id: '902241653029933981'
+lifecycle_stage: active
+run_id: 1cdb6b2494b44c91b82197edfaafa94f
+run_name: thoughtful-goose-294
+run_uuid: 1cdb6b2494b44c91b82197edfaafa94f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678096249191
+status: 3
+tags: []
+user_id: vishalra

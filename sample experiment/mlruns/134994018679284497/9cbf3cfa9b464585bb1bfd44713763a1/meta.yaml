@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vishalra/Documents/MLOps/sample%20experiment/mlruns/134994018679284497/9cbf3cfa9b464585bb1bfd44713763a1/artifacts
+end_time: 1678096514846
+entry_point_name: ''
+experiment_id: '134994018679284497'
+lifecycle_stage: active
+run_id: 9cbf3cfa9b464585bb1bfd44713763a1
+run_name: wistful-gull-756
+run_uuid: 9cbf3cfa9b464585bb1bfd44713763a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678096514810
+status: 3
+tags: []
+user_id: vishalra

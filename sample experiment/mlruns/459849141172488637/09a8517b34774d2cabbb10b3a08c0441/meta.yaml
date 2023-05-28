@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vishalra/Documents/MLOps/sample%20experiment/mlruns/459849141172488637/09a8517b34774d2cabbb10b3a08c0441/artifacts
+end_time: 1678094179442
+entry_point_name: ''
+experiment_id: '459849141172488637'
+lifecycle_stage: active
+run_id: 09a8517b34774d2cabbb10b3a08c0441
+run_name: crawling-tern-840
+run_uuid: 09a8517b34774d2cabbb10b3a08c0441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678094179402
+status: 3
+tags: []
+user_id: vishalra

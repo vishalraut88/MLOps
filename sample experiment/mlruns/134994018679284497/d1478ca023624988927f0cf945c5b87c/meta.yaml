@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vishalra/Documents/MLOps/sample%20experiment/mlruns/134994018679284497/d1478ca023624988927f0cf945c5b87c/artifacts
+end_time: 1678094736685
+entry_point_name: ''
+experiment_id: '134994018679284497'
+lifecycle_stage: active
+run_id: d1478ca023624988927f0cf945c5b87c
+run_name: dashing-calf-932
+run_uuid: d1478ca023624988927f0cf945c5b87c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678094736644
+status: 3
+tags: []
+user_id: vishalra

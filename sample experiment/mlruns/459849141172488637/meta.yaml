@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/vishalra/Documents/MLOps/sample%20experiment/mlruns/459849141172488637
+creation_time: 1678094119653
+experiment_id: '459849141172488637'
+last_update_time: 1678094119653
+lifecycle_stage: active
+name: first mlflow exp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vishalra/Documents/MLOps/Demo/mlruns/0/e863f08c421e43f09246d1b327cc2643/artifacts
+end_time: 1678106186546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e863f08c421e43f09246d1b327cc2643
+run_name: mercurial-boar-173
+run_uuid: e863f08c421e43f09246d1b327cc2643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678106186509
+status: 3
+tags: []
+user_id: vishalra
