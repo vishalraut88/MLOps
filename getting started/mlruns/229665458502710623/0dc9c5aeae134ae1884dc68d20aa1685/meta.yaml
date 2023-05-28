@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/0dc9c5aeae134ae1884dc68d20aa1685/artifacts
+end_time: 1678198490454
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 0dc9c5aeae134ae1884dc68d20aa1685
+run_name: gifted-snake-565
+run_uuid: 0dc9c5aeae134ae1884dc68d20aa1685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198490426
+status: 3
+tags: []
+user_id: Asus

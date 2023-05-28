@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/831f712d6eea4b7db8c46fd4dca453e9/artifacts
+end_time: 1678198737416
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 831f712d6eea4b7db8c46fd4dca453e9
+run_name: smiling-hen-170
+run_uuid: 831f712d6eea4b7db8c46fd4dca453e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198737383
+status: 3
+tags: []
+user_id: Asus

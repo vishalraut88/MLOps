@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/0/5d480f13a6a249068881c6cf60e0c37b/artifacts
+end_time: 1678188167120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d480f13a6a249068881c6cf60e0c37b
+run_name: whimsical-deer-866
+run_uuid: 5d480f13a6a249068881c6cf60e0c37b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678188166982
+status: 3
+tags: []
+user_id: Asus

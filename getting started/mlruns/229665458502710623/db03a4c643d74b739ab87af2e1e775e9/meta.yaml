@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/db03a4c643d74b739ab87af2e1e775e9/artifacts
+end_time: 1678198736881
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: db03a4c643d74b739ab87af2e1e775e9
+run_name: flawless-toad-240
+run_uuid: db03a4c643d74b739ab87af2e1e775e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198736843
+status: 3
+tags: []
+user_id: Asus

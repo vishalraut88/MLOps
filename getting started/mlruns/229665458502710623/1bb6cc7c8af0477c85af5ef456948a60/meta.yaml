@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/1bb6cc7c8af0477c85af5ef456948a60/artifacts
+end_time: 1678198752863
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 1bb6cc7c8af0477c85af5ef456948a60
+run_name: sedate-ram-20
+run_uuid: 1bb6cc7c8af0477c85af5ef456948a60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198752547
+status: 3
+tags: []
+user_id: Asus

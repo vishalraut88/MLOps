@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/91763d161da6461db62f553fa89011d8/artifacts
+end_time: 1678198490942
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 91763d161da6461db62f553fa89011d8
+run_name: merciful-shrike-75
+run_uuid: 91763d161da6461db62f553fa89011d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198490911
+status: 3
+tags: []
+user_id: Asus

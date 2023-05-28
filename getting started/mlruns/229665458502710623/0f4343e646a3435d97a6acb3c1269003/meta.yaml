@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/0f4343e646a3435d97a6acb3c1269003/artifacts
+end_time: 1678198752790
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 0f4343e646a3435d97a6acb3c1269003
+run_name: calm-ram-775
+run_uuid: 0f4343e646a3435d97a6acb3c1269003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198752723
+status: 3
+tags: []
+user_id: Asus

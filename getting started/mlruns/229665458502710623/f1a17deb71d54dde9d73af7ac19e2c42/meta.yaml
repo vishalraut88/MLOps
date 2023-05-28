@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/f1a17deb71d54dde9d73af7ac19e2c42/artifacts
+end_time: 1678198736978
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: f1a17deb71d54dde9d73af7ac19e2c42
+run_name: grandiose-donkey-767
+run_uuid: f1a17deb71d54dde9d73af7ac19e2c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198736947
+status: 3
+tags: []
+user_id: Asus

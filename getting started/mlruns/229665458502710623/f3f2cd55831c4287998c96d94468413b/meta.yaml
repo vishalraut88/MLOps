@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/f3f2cd55831c4287998c96d94468413b/artifacts
+end_time: 1678199122988
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: f3f2cd55831c4287998c96d94468413b
+run_name: painted-crab-571
+run_uuid: f3f2cd55831c4287998c96d94468413b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678199122958
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/9ecd7bc2daf045e8a363cd4eb7024abc/artifacts
+end_time: 1678198491118
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 9ecd7bc2daf045e8a363cd4eb7024abc
+run_name: intelligent-elk-372
+run_uuid: 9ecd7bc2daf045e8a363cd4eb7024abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198491085
+status: 3
+tags: []
+user_id: Asus

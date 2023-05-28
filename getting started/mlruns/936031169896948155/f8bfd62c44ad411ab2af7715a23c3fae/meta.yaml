@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/936031169896948155/f8bfd62c44ad411ab2af7715a23c3fae/artifacts
+end_time: 1678641269151
+entry_point_name: ''
+experiment_id: '936031169896948155'
+lifecycle_stage: active
+run_id: f8bfd62c44ad411ab2af7715a23c3fae
+run_name: gregarious-robin-625
+run_uuid: f8bfd62c44ad411ab2af7715a23c3fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678641269108
+status: 4
+tags: []
+user_id: Asus

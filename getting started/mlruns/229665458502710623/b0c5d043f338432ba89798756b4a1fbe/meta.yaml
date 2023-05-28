@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/b0c5d043f338432ba89798756b4a1fbe/artifacts
+end_time: 1678198737133
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: b0c5d043f338432ba89798756b4a1fbe
+run_name: victorious-bird-982
+run_uuid: b0c5d043f338432ba89798756b4a1fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198737102
+status: 3
+tags: []
+user_id: Asus

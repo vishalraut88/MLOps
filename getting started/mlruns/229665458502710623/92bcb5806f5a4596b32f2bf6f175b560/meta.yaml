@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/92bcb5806f5a4596b32f2bf6f175b560/artifacts
+end_time: 1678198490777
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 92bcb5806f5a4596b32f2bf6f175b560
+run_name: delightful-lamb-677
+run_uuid: 92bcb5806f5a4596b32f2bf6f175b560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198490750
+status: 3
+tags: []
+user_id: Asus

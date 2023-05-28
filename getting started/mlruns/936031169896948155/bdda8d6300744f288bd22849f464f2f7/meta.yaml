@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/936031169896948155/bdda8d6300744f288bd22849f464f2f7/artifacts
+end_time: 1678641560067
+entry_point_name: ''
+experiment_id: '936031169896948155'
+lifecycle_stage: active
+run_id: bdda8d6300744f288bd22849f464f2f7
+run_name: fun-skink-406
+run_uuid: bdda8d6300744f288bd22849f464f2f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678641560031
+status: 4
+tags: []
+user_id: Asus

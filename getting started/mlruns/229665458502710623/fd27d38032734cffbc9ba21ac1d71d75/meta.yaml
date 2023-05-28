@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/fd27d38032734cffbc9ba21ac1d71d75/artifacts
+end_time: 1678197584480
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: fd27d38032734cffbc9ba21ac1d71d75
+run_name: classy-boar-935
+run_uuid: fd27d38032734cffbc9ba21ac1d71d75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678197584270
+status: 4
+tags: []
+user_id: Asus

@@ -1,0 +1,12 @@
+creation_timestamp: 1678642417624
+current_stage: None
+description: null
+last_updated_timestamp: 1678642417624
+name: Logistic_regression_model
+run_id: 21d99bcf4fc849c49cae92365ef8e99d
+run_link: null
+source: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/697560695560623751/21d99bcf4fc849c49cae92365ef8e99d/artifacts/Logistic_regression
+status: READY
+status_message: null
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/936031169896948155/cb5a221373aa453f9397e73f9b7e9349/artifacts
+end_time: 1678641351248
+entry_point_name: ''
+experiment_id: '936031169896948155'
+lifecycle_stage: active
+run_id: cb5a221373aa453f9397e73f9b7e9349
+run_name: beautiful-croc-666
+run_uuid: cb5a221373aa453f9397e73f9b7e9349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678641351215
+status: 4
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science%20projects/MLOps/getting%20started/mlruns/229665458502710623/3709f2b6f5df46d2bed03821a1328ff9/artifacts
+end_time: 1678198490215
+entry_point_name: ''
+experiment_id: '229665458502710623'
+lifecycle_stage: active
+run_id: 3709f2b6f5df46d2bed03821a1328ff9
+run_name: polite-swan-715
+run_uuid: 3709f2b6f5df46d2bed03821a1328ff9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198490173
+status: 3
+tags: []
+user_id: Asus
